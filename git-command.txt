@@ -1,0 +1,20 @@
+git init                                                                                            
+   3 git status                                                                                          
+   4 rm typing.py                                                                                        
+   5 git status                                                                                          
+   6 git status                                                                                          
+   7 git add testing.py                                                                                  
+   8 git status                                                                                          
+   9 git --cache testing.py                                                                              
+  10 git status                                                                                          
+  11 git rm --cache testing.py                                                                           
+  12 git status                                                                                          
+  13 git add testing.py                                                                                  
+  14 git status                                                                                          
+  15 git commit -m "added testing files"                                                                 
+  16 git status                                                                                          
+  17 rm typing.py                                                                                        
+  18 rm testing.py                                                                                       
+  19 git status                                                                                          
+  20 git restore testing.py                                                                              
+  21 git status                                                                                          
