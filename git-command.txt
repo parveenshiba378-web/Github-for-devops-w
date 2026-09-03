@@ -17,4 +17,20 @@ git init
   18 rm testing.py                                                                                       
   19 git status                                                                                          
   20 git restore testing.py                                                                              
-  21 git status                                                                                          
+  21 git status  
+ git status                                                                                                      
+  24 git add git-command.txt                                                                                         
+  25 git status                                                                                                      
+  26 git commit -m "used command of git history"                                                                     
+  27 git status                                                                                                      
+  28 git remote add origin https://github.com/parveenshiba378-web/Github-for-devops-w.git                            
+  29 git remote -v                                                                                                   
+  30 git remote set-url origin
+  31 git remote -v                                                                                                   
+  32 git push origin master                                                                                          
+  33 git remote -v                                                                                                   
+  34 git remote set-url origin 
+  35 git remote -v                                                                                                   
+  36 git push origin master                                                                                          
+
+                                                                                        
