@@ -29,9 +29,4 @@ git init
   31 git remote -v                                                                                                   
   32 git push origin master                                                                                          
   33 git remote -v                                                                                                   
-  34 git remote set-url origin 
-  35 git remote -v                                                                                                   
-  36 git push origin master                                                                                          
-
-                                                                                        
-this is new changes
+  34 git remote set-url origin                                           
