@@ -18,7 +18,7 @@ git init
   19 git status                                                                                          
   20 git restore testing.py                                                                              
   21 git status
-  this is my new change
+  this is my new change.
   24 git add git-command.txt                                                                                         
   25 git status                                                                                                      
   26 git commit -m "used command of git history"                                                                     
